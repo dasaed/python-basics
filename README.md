@@ -11,9 +11,10 @@ Each folder has its own readme, with more details about each of the elements ins
 
 ## TODO
 Ignore the order here, it's just the list of topics I can think off that I'd like to cover off the top of my head
-1. *basics* - the real basics (objects, variables, functions, basically what you'd need if you were starting from 0)
-2. *pandas* - For more scientific computing and dealing with tables and excel-like things
-3. *flask* - Useful library/tool for on the go REST APIs
-4. *django* - Useful for web development (flask is also useful for this, but as fully packaged as django)
-5. *shell_scripting* - Useful for automating things you ran locally on your computer
-6. *data_structures* - for more advance software design applications
+1. **basics** - the real basics (objects, variables, functions, basically what you'd need if you were starting from 0)
+2. **jupyter_notebooks** - A more user- interactive way of doing things
+3. **pandas** - For more scientific computing and dealing with tables and excel-like things
+4. **flask** - Useful library/tool for on the go REST APIs
+5. **django** - Useful for web development (flask is also useful for this, but as fully packaged as django)
+6. **shell_scripting** - Useful for automating things you ran locally on your computer
+7. **data_structures** - for more advance software design applications
